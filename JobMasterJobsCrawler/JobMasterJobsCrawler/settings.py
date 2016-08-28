@@ -87,6 +87,6 @@ ITEM_PIPELINES = {
 
 
 MYSQL_HOST = 'localhost'
-MYSQL_DBNAME = 'drushim'
+MYSQL_DBNAME = 'il_sites_datas'
 MYSQL_USER = 'root'
 MYSQL_PASSWORD = 'root'
